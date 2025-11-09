@@ -1,4 +1,4 @@
 # DEMO
-This is my first project or repository.
+This is my first git repository.
 <br>
-Authore- Kashif
+Authore- Kashif Ali
